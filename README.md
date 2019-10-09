@@ -5,8 +5,7 @@
 
 - For Windows :  [Git for Windows](https://git-scm.com/download/win)
 - For MacOS      :   [Git for Mac Os](https://git-scm.com/download/mac)
-
-For Linux :
+- For Linux :
 ```
 #add-apt-repository ppa:git-core/ppa
 #apt update; apt install git
