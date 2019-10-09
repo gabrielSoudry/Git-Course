@@ -3,8 +3,8 @@
 
 ### 1. Install Git 
 
-For Windows :  [Git for Windows](https://git-scm.com/download/win)
-For MacOS      :   [Git for Mac Os](https://git-scm.com/download/mac)
+- For Windows :  [Git for Windows](https://git-scm.com/download/win)
+- For MacOS      :   [Git for Mac Os](https://git-scm.com/download/mac)
 
 For Linux :
 ```
